@@ -1,0 +1,1 @@
+export const BASE_URL = "https://hackaton-dusky.vercel.app/?vercelToolbarCode=T0Rq6-wZmxrP_bw";
